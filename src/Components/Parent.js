@@ -36,7 +36,7 @@ function Parent() {
     
 
   return (
-   <BrowserRouter>
+   <BrowserRouter basename = "https://studentadminfront.onrender.com">
 
    
    
