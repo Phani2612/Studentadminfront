@@ -36,7 +36,7 @@ function Parent() {
     
 
   return (
-   <BrowserRouter basename = "/">
+   <BrowserRouter>
 
    
    
