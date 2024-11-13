@@ -35,7 +35,7 @@ function Register() {
 
         // console.log(data)
 
-        Axios.post('http://localhost:7001/Register', data).then(function(output)
+        Axios.post('https://studentadministrationbackend.onrender.com/Register', data).then(function(output)
         {
 
                 
